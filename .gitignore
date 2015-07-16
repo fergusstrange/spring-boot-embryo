@@ -7,6 +7,9 @@ build/
 # Ignore Gradle GUI config
 gradle-app.setting
 
+*.log
+logs/
+
 # Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
 !gradle-wrapper.jar
 
